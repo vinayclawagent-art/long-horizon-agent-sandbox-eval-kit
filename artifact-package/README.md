@@ -23,6 +23,7 @@ The tweet turns a tool launch into a concrete benchmark pattern: can an agent re
 
 ## Generated artifacts
 - Prototype: [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/agent-sandbox-eval-builder.html|agent-sandbox-eval-builder.html]]
+- Evidence packet: [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Packet|Sandbox Trial Evidence Packet]]
 - Infographic: [[../Infographics/Long-Horizon Agent Sandbox Eval Kit/long-horizon-agent-eval-flow.svg|long-horizon-agent-eval-flow.svg]]
 - Skill draft: [[../Skills/long-horizon-agent-sandbox-evals/SKILL|long-horizon-agent-sandbox-evals]]
 - Improvement loop: [[../Improvement-Loops/Long-Horizon Agent Sandbox Eval Kit Loop|Long-Horizon Agent Sandbox Eval Kit Loop]]
@@ -41,8 +42,10 @@ Reusable procedure for evaluating long-horizon coding agents on repo resurrectio
 
 ## Improvement backlog
 - Run one real-world trial and attach evidence rather than claiming validation now.
+- Fill [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Packet|Sandbox Trial Evidence Packet]] during that trial so logs, commits, costs, failure modes, and decision rationale are captured.
 - Add a worked example from VinClawLabs/Mission Control after first use.
 - Decide whether to promote the skill draft after one successful repeat.
 
 ## Change log
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
+- 2026-06-08: Added [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Packet|Sandbox Trial Evidence Packet]] so the next real sandbox run can attach source-backed proof before any recommendation.
