@@ -23,3 +23,6 @@ Use the builder/checklist to produce a markdown handoff, then paste the filled o
 
 ## Contributing
 This is an artifact-factory output. Keep changes source-linked and evidence-backed.
+
+## 2026-06-11 improvement
+Added `Post-Trial Debrief Template.md` so the next real trial can be debriefed before any promotion claim.

@@ -41,6 +41,7 @@ Show the source idea as a practical loop: intake → scoped agent run → visibl
 Reusable procedure for evaluating long-horizon coding agents on repo resurrection, paper-to-code, and infra orchestration tasks.
 
 ## Improvement backlog
+- Fill [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Post-Trial Debrief Template|Post-Trial Debrief Template]] immediately after the next real trial so promotion decisions are evidence-backed.
 - Run one real-world trial and attach evidence rather than claiming validation now.
 - Fill [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Packet|Sandbox Trial Evidence Packet]] during that trial so logs, commits, costs, failure modes, and decision rationale are captured.
 - Add a worked example from VinClawLabs/Mission Control after first use.
@@ -49,3 +50,5 @@ Reusable procedure for evaluating long-horizon coding agents on repo resurrectio
 ## Change log
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
 - 2026-06-08: Added [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Packet|Sandbox Trial Evidence Packet]] so the next real sandbox run can attach source-backed proof before any recommendation.
+
+- 2026-06-11: Added [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Post-Trial Debrief Template|Post-Trial Debrief Template]] for post-trial evidence capture.
