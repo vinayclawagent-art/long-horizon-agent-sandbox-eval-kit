@@ -22,6 +22,7 @@ The tweet turns a tool launch into a concrete benchmark pattern: can an agent re
 **9/10** — high because the source maps to a repeatable agent/product workflow with visual explanation value and a concrete trial surface.
 
 ## Generated artifacts
+- Trial evidence index: [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Index|Sandbox Trial Evidence Index]]
 - Promotion decision card: [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Promotion Decision Card|Sandbox Promotion Decision Card]]
 - Evidence quality rubric: [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Evidence Quality Rubric|Sandbox Evidence Quality Rubric]]
 - Prototype: [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/agent-sandbox-eval-builder.html|agent-sandbox-eval-builder.html]]
@@ -43,6 +44,7 @@ Show the source idea as a practical loop: intake → scoped agent run → visibl
 Reusable procedure for evaluating long-horizon coding agents on repo resurrection, paper-to-code, and infra orchestration tasks.
 
 ## Improvement backlog
+- Fill [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Index|Sandbox Trial Evidence Index]] during the next real sandbox trial to map logs, commits, costs, and decision notes to exact README, prototype, and skill claims before patching wording.
 - Fill [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Promotion Decision Card|Sandbox Promotion Decision Card]] after the evidence packet, debrief, and rubric are complete so promotion / pilot-only / iterate / hold is explicit before any claim upgrade.
 - Fill [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Post-Trial Debrief Template|Post-Trial Debrief Template]] immediately after the next real trial so promotion decisions are evidence-backed.
 - Run one real-world trial and attach evidence rather than claiming validation now.
@@ -51,6 +53,7 @@ Reusable procedure for evaluating long-horizon coding agents on repo resurrectio
 - Decide whether to promote the skill draft after one successful repeat.
 
 ## Change log
+- 2026-06-21: Added [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Index|Sandbox Trial Evidence Index]] to map future proof links to supported claim changes; index is template-ready, not validation proof.
 - 2026-06-21: Added [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Promotion Decision Card|Sandbox Promotion Decision Card]] to convert future evidence into an explicit promote / pilot-only / iterate / hold decision; card is template-ready, not validation proof.
 - 2026-06-21: Added [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Evidence Quality Rubric|Sandbox Evidence Quality Rubric]] so future trial proof is graded before README/prototype/skill claims change; rubric is template-ready, not validation proof.
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.

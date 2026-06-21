@@ -15,5 +15,8 @@ Run the builder and [[Sandbox Trial Evidence Packet]] together on one real repo/
 ## Evidence quality gate
 - [[Sandbox Evidence Quality Rubric]] — grade future real-trial proof before changing README, prototype, or skill-draft claims. Template-ready; evidence pending.
 
+## Evidence index
+- [[Sandbox Trial Evidence Index]] — map future setup transcripts, debug commits, verification logs, cost notes, and decisions to the exact claims they are allowed to support. Template-ready; evidence pending.
+
 ## Promotion gate
 - [[Sandbox Promotion Decision Card]] — fill only after the evidence packet, debrief, and rubric to choose promote / pilot-only / iterate / hold with claim-level patch targets. Template-ready; evidence pending.

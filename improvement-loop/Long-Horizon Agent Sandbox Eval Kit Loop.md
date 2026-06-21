@@ -5,7 +5,7 @@ package: "[[Long-Horizon Agent Sandbox Eval Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/long-horizon-agent-sandbox-eval-kit"
 cadence: nightly
 last_improved: 2026-06-21
-next_focus: "Run the next real long-horizon sandbox trial, fill the evidence packet and post-trial debrief, grade proof with the Sandbox Evidence Quality Rubric, then complete the Sandbox Promotion Decision Card before patching README/prototype/skill claims."
+next_focus: "Run the next real long-horizon sandbox trial, fill the evidence packet, post-trial debrief, Sandbox Evidence Quality Rubric, and Sandbox Trial Evidence Index, then complete the Sandbox Promotion Decision Card before patching README/prototype/skill claims."
 tags: [improvement-loop, x-artifact-factory, agent-workflows]
 ---
 
@@ -15,6 +15,7 @@ tags: [improvement-loop, x-artifact-factory, agent-workflows]
 Turn [[Antigravity CLI as a Long-Horizon Agent Sandbox]] into a reusable, inspectable artifact package with at least one real-world trial before promotion.
 
 ## Latest improvement
+- 2026-06-21: Added [[Artifacts/Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Index|Sandbox Trial Evidence Index]] so future logs/commits/cost notes map to exact claim patches before wording changes. Index is ready; no validation proof invented.
 - 2026-06-21: Added [[Artifacts/Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Promotion Decision Card|Sandbox Promotion Decision Card]] so future evidence produces an explicit promote / pilot-only / iterate / hold gate before claim upgrades. Card is ready; no validation proof invented.
 - 2026-06-21: Added [[Artifacts/Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Evidence Quality Rubric|Sandbox Evidence Quality Rubric]] so future proof is graded before any stronger claims or skill promotion. Rubric is ready; no validation proof invented.
 - 2026-06-11: Added [[Post-Trial Debrief Template]] so the next real trial has a post-trial debrief and explicit patch queue before promotion.
@@ -22,8 +23,9 @@ Turn [[Antigravity CLI as a Long-Horizon Agent Sandbox]] into a reusable, inspec
 - 2026-06-08: Added [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Packet]] to make the next real sandbox run evidence-backed instead of validation-by-assertion.
 
 ## Next focus
-Run the next real long-horizon sandbox trial, fill the evidence packet and post-trial debrief, grade proof with the Sandbox Evidence Quality Rubric, then complete the Sandbox Promotion Decision Card before patching README/prototype/skill claims.
+Run the next real long-horizon sandbox trial, fill the evidence packet, post-trial debrief, Sandbox Evidence Quality Rubric, and Sandbox Trial Evidence Index, then complete the Sandbox Promotion Decision Card before patching README/prototype/skill claims.
 
 ## Backlog
+- [x] Add a trial evidence index so future proof links map to exact supported claim patches before README/prototype/skill wording changes.
 - [x] Add a promotion decision card so future proof maps to promote / pilot-only / iterate / hold before claim upgrades.
 - [x] Add an evidence quality rubric to gate future claims after the first real trial.
