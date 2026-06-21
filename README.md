@@ -4,7 +4,7 @@ Visible X-Artifact Factory kit generated from [[Antigravity CLI as a Long-Horizo
 
 - Source X: https://x.com/fofrAI/status/2062887949927141418
 - GitHub: https://github.com/vinayclawagent-art/long-horizon-agent-sandbox-eval-kit
-- Status: template-ready evidence quality gate added; real validation pending
+- Status: template-ready promotion gate added; real validation pending
 
 ## What this repo contains
 
@@ -15,6 +15,7 @@ Visible X-Artifact Factory kit generated from [[Antigravity CLI as a Long-Horizo
 - improvement-loop/ — recurring improvement tracker.
 
 ## Latest artifacts
+- prototype/Sandbox Promotion Decision Card.md
 - prototype/Sandbox Evidence Quality Rubric.md
 - prototype/README.md
 
@@ -22,4 +23,4 @@ Visible X-Artifact Factory kit generated from [[Antigravity CLI as a Long-Horizo
 Open the prototype markdown/HTML files, fill them during a real workflow, and only promote claims after evidence is attached.
 
 ## Latest improvement
-2026-06-21: Added Sandbox Evidence Quality Rubric as the proof-quality gate for the next real trial.
+2026-06-21: Added Sandbox Promotion Decision Card as the promote / pilot-only / iterate / hold gate for the next real trial. Evidence remains pending.
