@@ -20,6 +20,7 @@ Turn [[Antigravity CLI as a Long-Horizon Agent Sandbox]] into a reusable, inspec
 - 2026-06-08: Added [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Packet]] to make the next real sandbox run evidence-backed instead of validation-by-assertion.
 
 ## Next focus
-- Fill [[Post-Trial Debrief Template]] after the next real trial; keep wording template-ready, not validated.
-- Run the builder plus [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Packet]] on a real Antigravity/Codex/Hermes sandbox trial and attach logs, commits, costs, and failure modes before recommending the tool.
-- Keep wording evidence-ready, not validation-complete, until a real trial fills the packet.
+Run the next real long-horizon sandbox trial, fill the evidence packet and post-trial debrief, grade proof with the Sandbox Evidence Quality Rubric, then patch README/prototype/skill claims only where evidence supports them.
+
+## Backlog
+- [x] Add an evidence quality rubric to gate future claims after the first real trial.
