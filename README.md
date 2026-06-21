@@ -4,7 +4,7 @@ Visible X-Artifact Factory kit generated from [[Antigravity CLI as a Long-Horizo
 
 - Source X: https://x.com/fofrAI/status/2062887949927141418
 - GitHub: https://github.com/vinayclawagent-art/long-horizon-agent-sandbox-eval-kit
-- Status: template-ready trial evidence index added; real validation pending
+- Status: template-ready operator handoff added; real validation pending
 
 ## What this repo contains
 
@@ -15,6 +15,7 @@ Visible X-Artifact Factory kit generated from [[Antigravity CLI as a Long-Horizo
 - improvement-loop/ — recurring improvement tracker.
 
 ## Latest artifacts
+- prototype/Sandbox Trial Operator Handoff Checklist.md
 - prototype/Sandbox Trial Evidence Index.md
 - prototype/Sandbox Promotion Decision Card.md
 - prototype/Sandbox Evidence Quality Rubric.md
@@ -24,4 +25,4 @@ Visible X-Artifact Factory kit generated from [[Antigravity CLI as a Long-Horizo
 Open the prototype markdown/HTML files, fill them during a real workflow, and only promote claims after evidence is attached.
 
 ## Latest improvement
-2026-06-21: Added Sandbox Trial Evidence Index so future proof links map to supported README/prototype/skill claim patches before wording changes. Evidence remains pending.
+2026-06-21: Added Sandbox Trial Operator Handoff Checklist so the next operator has a single sequence for packet, debrief, rubric, evidence index, and promotion card before claim patches. Evidence remains pending.

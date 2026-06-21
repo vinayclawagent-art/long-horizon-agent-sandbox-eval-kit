@@ -18,5 +18,8 @@ Run the builder and [[Sandbox Trial Evidence Packet]] together on one real repo/
 ## Evidence index
 - [[Sandbox Trial Evidence Index]] — map future setup transcripts, debug commits, verification logs, cost notes, and decisions to the exact claims they are allowed to support. Template-ready; evidence pending.
 
+## Operator handoff
+- [[Sandbox Trial Operator Handoff Checklist]] — use this as the single next-operator sequence before the real trial: packet → debrief → rubric → evidence index → promotion card → claim patches. Template-ready; evidence pending.
+
 ## Promotion gate
 - [[Sandbox Promotion Decision Card]] — fill only after the evidence packet, debrief, and rubric to choose promote / pilot-only / iterate / hold with claim-level patch targets. Template-ready; evidence pending.
