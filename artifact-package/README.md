@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/long-horizon-agent-sandbox-e
 score: 9
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-07
+last_improved: 2026-06-21
 tags: [artifact-package, x-intel, long-horizon-agents, agent-evals]
 ---
 
@@ -22,6 +22,7 @@ The tweet turns a tool launch into a concrete benchmark pattern: can an agent re
 **9/10** — high because the source maps to a repeatable agent/product workflow with visual explanation value and a concrete trial surface.
 
 ## Generated artifacts
+- Evidence quality rubric: [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Evidence Quality Rubric|Sandbox Evidence Quality Rubric]]
 - Prototype: [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/agent-sandbox-eval-builder.html|agent-sandbox-eval-builder.html]]
 - Evidence packet: [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Packet|Sandbox Trial Evidence Packet]]
 - Infographic: [[../Infographics/Long-Horizon Agent Sandbox Eval Kit/long-horizon-agent-eval-flow.svg|long-horizon-agent-eval-flow.svg]]
@@ -48,6 +49,7 @@ Reusable procedure for evaluating long-horizon coding agents on repo resurrectio
 - Decide whether to promote the skill draft after one successful repeat.
 
 ## Change log
+- 2026-06-21: Added [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Evidence Quality Rubric|Sandbox Evidence Quality Rubric]] so future trial proof is graded before README/prototype/skill claims change; rubric is template-ready, not validation proof.
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
 - 2026-06-08: Added [[../Prototypes/Long-Horizon Agent Sandbox Eval Kit/Sandbox Trial Evidence Packet|Sandbox Trial Evidence Packet]] so the next real sandbox run can attach source-backed proof before any recommendation.
 

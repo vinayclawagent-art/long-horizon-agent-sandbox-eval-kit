@@ -11,3 +11,6 @@ Open `agent-sandbox-eval-builder.html` in a browser. It stores draft state local
 ## Next iteration
 
 Run the builder and [[Sandbox Trial Evidence Packet]] together on one real repo/paper/infra trial before updating the package with any validation claim.
+
+## Evidence quality gate
+- [[Sandbox Evidence Quality Rubric]] — grade future real-trial proof before changing README, prototype, or skill-draft claims. Template-ready; evidence pending.
